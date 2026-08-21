@@ -1,0 +1,7 @@
+Classifier,Train Size,Test Size,Logistic Regression AUC (Charge+GRAVY Only),Random Forest AUC (Charge+GRAVY Only)
+P1+N1,640,161,0.9833,1.0
+P1+N2,437,110,0.9793,1.0
+P2+N1,746,187,1.0,1.0
+P2+N2,543,136,0.9986,0.9914
+P3+N1,609,153,1.0,1.0
+P3+N2,406,102,1.0,1.0
