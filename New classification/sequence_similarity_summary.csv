@@ -1,0 +1,7 @@
+Classifier,Total Train Seqs,Total Test Seqs,Mean Max Identity (%),Test Seqs >= 80% Identity (Count),Test Seqs >= 80% Identity (%)
+Classifier P1+N1,640,161,67.47,83,51.55
+Classifier P1+N2,437,110,63.29,52,47.27
+Classifier P2+N1,746,187,69.43,98,52.41
+Classifier P2+N2,543,136,65.47,68,50.0
+Classifier P3+N1,609,153,70.27,84,54.9
+Classifier P3+N2,406,102,68.61,57,55.88
